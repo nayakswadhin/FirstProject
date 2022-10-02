@@ -79,7 +79,7 @@ public class Test {
         try{
             System.out.println(stack);
             stack.push(10);
-            stack.push(12);
+            stack.push(20);
             System.out.println(stack);
             System.out.println("poped "+stack.pop());
             System.out.println(stack);
