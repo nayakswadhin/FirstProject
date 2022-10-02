@@ -78,7 +78,7 @@ public class Test {
         Stack stack= new Stack(2);
         try{
             System.out.println(stack);
-            stack.push(10);
+            stack.push(30);
             stack.push(20);
             System.out.println(stack);
             System.out.println("poped "+stack.pop());
